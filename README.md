@@ -2,7 +2,7 @@
 
 # (DEPRECATED) consensus2genome
 
-note: consensus2genome is deprecated and is replace by [TE-Aid](https://github.com/clemgoub/TE-Aid)
+note: consensus2genome is deprecated and is replaced by [TE-Aid](https://github.com/clemgoub/TE-Aid)
 
 consensus2genome is a R function that blast any TE consensus sequence (nucleotides, fasta) to a reference reference genome and then output a mapping graph which displays the blast hits along the consensus (x axis) according to their divergence to it as horizontal lines (left y axis) . It also displays the overall consensus coverage after the piling-up all copies as a colored curve (right y axis).
 The function performs the blast automatically through the system and print a customizable graph.
